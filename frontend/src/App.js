@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <h1>Hola desde Netlify con despliegue continuo</h1>
       </header>
     </div>
   );
